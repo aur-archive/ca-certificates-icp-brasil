@@ -17,7 +17,7 @@ source=(
 # http://acraiz.icpbrasil.gov.br/credenciadas/CertificadosAC-ICP-Brasil/hashsha512.txt
 #
 sha512sums=(
-    'b57ed8ce516c83aa2f5e38fc29f42d3676168723fff3f715277767ddc81a846f7f91ad82c0cf74df93ecf786627932818514bff15e8711fcce3efd6ab4d5fb70'
+    '1ca7ecbc2d4999ea079edcaa1057e96dcb4346507cace7d5c5b58cddf833c666c0f7995dc7b359793ffe8fb7996097f4c356448098c83681df584ebf40cd3f97'
     )
 
 package() {
